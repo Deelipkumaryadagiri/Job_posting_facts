@@ -21,15 +21,3 @@ This repository contains SQL scripts for creating and managing a relational data
 3. Use `3_modify_tables.sql` to apply further modifications to the schema.
 
 Make sure you have a SQL database management system like MySQL, PostgreSQL, or SQL Server set up to run these scripts.
-
-## Future Enhancements
-- Add sample data insertion scripts.
-- Develop stored procedures and triggers for automated tasks.
-- Incorporate advanced indexing and performance optimizations.
-
-## License
-This project is open source and available under the MIT License.
-
----
-
-Feel free to customize the README further based on your specific project details and requirements.
